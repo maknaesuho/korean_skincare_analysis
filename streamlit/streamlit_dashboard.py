@@ -27,7 +27,7 @@ with col5:
 # 2. Load Data
 @st.cache_data
 def load_data():
-    df = pd.read_csv('https://github.com/maknaesuho/korean_skincare_analysis/blob/main/streamlit/korean_skincare_master.csv')
+    df = pd.read_csv('https://raw.githubusercontent.com/maknaesuho/korean_skincare_analysis/refs/heads/main/streamlit/korean_skincare_master.csv')
     
     # Recreate the Safe_Formula_Flag 
     irritators = ['alcohol denat', 'fragrance', 'parfum', 'essential oil', 'linalool', 'limonene']
