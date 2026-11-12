@@ -73,4 +73,3 @@ The culmination of this data analysis is an interactive web dashboard built with
 ---
 
 *This project was completed as the Final Project for the Ironhack Data Analytics Bootcamp.*
-```eof
