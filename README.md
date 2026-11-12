@@ -1,4 +1,5 @@
 # 🧴 Demystifying K-Beauty: Market Analytics & Routine Matcher
+**Live Dashboard:** [Korean Routine Finder](https://korean-routine-finder.streamlit.app/)  
 **Ironhack Data Analytics Final Project**  
 **Author:** Sofija Šarafejeva ([@maknaesuho](https://github.com/maknaesuho))
 
